@@ -2,6 +2,10 @@
 
 A lightweight, robust, real-time GPS running tracker built exclusively for Android using **Kotlin**, **Jetpack Compose**, **OpenStreetMap (osmdroid)**, **Room Database**, and **Foreground Services**.
 
+## App Preview
+
+![App Screenshot](screenshot.png)
+
 ## Features
 
 - **Real-Time GPS Tracking**: Smoothly tracks position and draws your route polyline live on an interactive OpenStreetMap view (Zero API keys required!).

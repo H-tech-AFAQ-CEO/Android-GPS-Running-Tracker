@@ -4,7 +4,7 @@ A lightweight, robust, real-time GPS running tracker built exclusively for Andro
 
 ## App Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](app/Screenshot%202026-10-08%20021022.png)
 
 ## Features
 
